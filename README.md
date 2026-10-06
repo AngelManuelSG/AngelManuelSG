@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About me.
 
-Currentyly studying a doble degree in Maths and Computer Science. I'm enthusiastic about cybersecurity, AI and their application for solving real problems.
+Currentyly studying a double degree in Maths and Computer Science. I'm enthusiastic about cybersecurity, AI and their application for solving real problems.
 
 ---
 
